@@ -6,7 +6,7 @@ import (
 	"github.com/jinzhu/gorm"
 	"github.com/junhsieh/goexamples/fieldbinding/fieldbinding"
 	util "github.com/rhettli/gluasql/util"
-	"github.com/yuin/gopher-lua"
+	"gitee.com/oshine/glua"
 	"reflect"
 	"time"
 )
